@@ -5,7 +5,6 @@ import com.theokanning.openai.service.OpenAiService;
 
 public class ConsultaChatGpt {
     public static String obterInformacao(String texto) {
-        String API_KEY = "OPENAI_API_KEY";
         OpenAiService service = new OpenAiService(System.getenv(API_KEY));
 
 
