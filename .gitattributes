@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 /mvnw text eol=lf
 *.cmd text eol=crlf
+=======
+/mvnw text eol=lf
+*.cmd text eol=crlf
+>>>>>>> 49e490a7ae0bd2eed2ec4bf08455563611abb0b6
